@@ -1,3 +1,5 @@
+# Galaga Killer
+
 ABOUT:
 This project seeks to use ML to train a model to play Galaga reasonably well.
 
