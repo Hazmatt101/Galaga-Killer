@@ -1,0 +1,1 @@
+Add MAME folder here. MAME the emulator directory.
