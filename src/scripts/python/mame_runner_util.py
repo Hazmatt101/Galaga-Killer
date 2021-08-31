@@ -22,4 +22,4 @@ class MameRunnerUtil:
 
     @staticmethod
     def get_admin():
-        os.
+        print()
