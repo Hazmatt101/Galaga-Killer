@@ -13,3 +13,6 @@
 */\.idea
 */mame
 *.vcproj
+venv
+build
+.idea
